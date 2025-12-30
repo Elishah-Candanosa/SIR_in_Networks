@@ -1,5 +1,8 @@
 # The SIR Model implemented on Complex Networks
 
+<img width="673" height="427" alt="image" src="https://github.com/user-attachments/assets/76565a43-bd43-4285-bfc8-99e80829f0b0" />
+
+
 **Abstract**
 
 This work presents a generalization of the classical SIR (Susceptible-Infected-Recovered) epidemiological model applied to complex networks—specifically **Barabási-Albert scale-free networks**. The aim is to simulate disease propagation without relying on idealizations such as a "well-mixed" society, while ensuring the model reduces to the classical case in the appropriate limit for continuous time evolution (in contrast to the discretization employed in this work).
